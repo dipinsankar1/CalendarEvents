@@ -15,6 +15,3 @@ class EventModel {
     required this.isAllDay,
   });
 }
-
-
-//this.backgroundColor = Colors.lightGreen,
